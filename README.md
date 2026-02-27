@@ -2,20 +2,20 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋+I'm+Pham+Hao;+A+Blockchain+Enthusiast!;&center=true&font=Righteous&size=35&color=00FFFF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋+I'm+Pham+Gia+Hao;&center=true&font=Righteous&size=35&color=00FFFF">
   </a>
 </h1>
 
 <br />
 <p align="center">
-  Hi, I'm <strong>Pham Hao (Hao Sua)</strong>, a fourth-year IT student 👨‍💻 and a tech explorer from Vietnam 🇻🇳.
+  Hi, I am <strong>Pham Gia Hao</strong>, I am a fourth-year IT student with a passion for <strong>Business Analysis</strong> and <strong>Web Development</strong> from Vietnam 🇻🇳.
   <br />
   <br />
-  🎓 Currently completing my 10th semester in Information Technology.
+  🎓 Final-year IT student specializing in Information Technology curriculum
   <br />
-  💻 I love building decentralized apps and 3D web experiences.
+  📊 Aspiring <strong>Technical BA</strong> who loves bridging the gap between business needs and technical solutions.
   <br />
-  🧑‍💼 Working on a <strong>Charity Fund</strong> project using Solidity & Firebase.
+  🚀 Currently focusing on <strong>system logic design</strong> and optimizing <strong>transparent data flows</strong> for web applications.
   <br />
 </p>
 
@@ -32,13 +32,13 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,threejs,vite,solidity&theme=dark" />
-          <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,threejs,vite,solidity&theme=dark" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" alt="skills - 1" />
         </picture>
           <br />
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,postgres,mysql,git,docker,github&theme=dark" />
-            <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,postgres,mysql,git,docker,github&theme=dark" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,postgres,git,docker,github&theme=dark" />
+            <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,postgres,git,docker,github&theme=dark" alt="skills - 2" />
         </picture>
   </a>
 </p>
