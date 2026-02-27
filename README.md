@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋+I'm+Pham+Gia+Hao;&center=true&font=Righteous&size=35&color=00FFFF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋+I'm+Pham+Gia+Hao;&center=true&font=Righteous&size=35&color=00FFFF&width=600">
   </a>
 </h1>
 
@@ -19,27 +19,28 @@
   <br />
 </p>
 
+<h2 align="center">🤝 Contact Me 🤝</h2>
 <div align="center"> 
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/PhamHao21" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="mailto:phamgiahao96@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.facebook.com/lu.harry.9634" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discordapp.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/PhamHao21" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <hr />
 
 <h2 align="center">🔥 Languages - Frameworks - Tools 🔥</h2>
-<br />
 <p align="center">
   <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" />
-          <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" alt="skills - 1" />
-        </picture>
-          <br />
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,postgres,git,docker,github&theme=dark" />
-            <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,postgres,git,docker,github&theme=dark" alt="skills - 2" />
-        </picture>
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,firebase,mongodb,postgres,solidity,git,docker,github&theme=dark" />
   </a>
 </p>
 <br />
@@ -47,12 +48,8 @@
 <hr />
 
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PhamHao21/PhamHao21/blob/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://github.com/PhamHao21/PhamHao21/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
+  <h2>🐍 Snake eating my contribution </h2>
+  <img src="https://raw.githubusercontent.com/PhamHao21/PhamHao21/output/github-contribution-grid-snake.svg" alt="github-snake" />
 </div>
 
 <hr />
