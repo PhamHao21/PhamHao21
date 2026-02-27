@@ -74,22 +74,35 @@
 </div>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
+    </picture>
+  </a>
 
 <hr />
 
-<!-- <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br />
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/PhamHao21/PhamHao21.github.io">
+  <!-- <a align="left" href="https://github.com/PhamHao21/PhamHao21.github.io">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=PhamHao21.github.io&theme=tokyonight&border_radius=10" alt="3D Portfolio" />
-  </a>
+  </a> -->
 
-  <a align="right" href="https://github.com/PhamHao21/Theme-Blog">
+  <!-- <a align="right" href="https://github.com/PhamHao21/Theme-Blog">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=Theme-Blog&theme=tokyonight&border_radius=10" alt="Theme Blog" />
-  </a>
-</div> -->
+  </a> -->
+</div> 
 
 <br /><br /><br /><br /><br /><br />
+
+<hr />
+<!-- repositories -->
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
 
 <h4 align="center">
   <a href="https://github.com/PhamHao21?tab=repositories">🔎 Show More 🔍</a>
