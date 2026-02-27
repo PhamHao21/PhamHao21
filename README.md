@@ -68,9 +68,9 @@
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=PhamHao21&theme=tokyonight&hide_border=true" alt="streak stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PhamHao21&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  </a>
+  </a> -->
 </div>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
