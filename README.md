@@ -40,7 +40,7 @@
 <h2 align="center">🔥 Languages - Frameworks - Tools 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,firebase,mongodb,postgres,solidity,git,docker,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,firebase,mongodb,postgres,git,docker,github&theme=dark" />
   </a>
 </p>
 <br />
@@ -48,8 +48,16 @@
 <hr />
 
 <div align="center">
-  <h2>🐍 Snake eating my contribution </h2>
-  <img src="https://raw.githubusercontent.com/PhamHao21/PhamHao21/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
 </div>
 
 <hr />
@@ -69,7 +77,7 @@
 
 <hr />
 
-<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<!-- <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br />
 <div width="100%" align="center">
   <a align="left" href="https://github.com/PhamHao21/PhamHao21.github.io">
@@ -79,7 +87,7 @@
   <a align="right" href="https://github.com/PhamHao21/Theme-Blog">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=Theme-Blog&theme=tokyonight&border_radius=10" alt="Theme Blog" />
   </a>
-</div>
+</div> -->
 
 <br /><br /><br /><br /><br /><br />
 
