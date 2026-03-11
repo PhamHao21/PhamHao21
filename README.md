@@ -85,14 +85,14 @@
 <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br />
 <div width="100%" align="center">
-  <!-- <a align="left" href="https://github.com/PhamHao21/PhamHao21.github.io">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=PhamHao21.github.io&theme=tokyonight&border_radius=10" alt="3D Portfolio" />
-  </a> -->
+  <a align="left" href="https://github.com/PhamHao21/online-dental-appointment-system">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=online-dental-appointment-system&theme=tokyonight&border_radius=10" alt="Online Dental Appointment" />
+  </a>
 
-  <!-- <a align="right" href="https://github.com/PhamHao21/Theme-Blog">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=Theme-Blog&theme=tokyonight&border_radius=10" alt="Theme Blog" />
-  </a> -->
-</div> 
+  <a align="right" href="https://github.com/PhamHao21/Wage-Zone-Search">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=Wage-Zone-Search&theme=tokyonight&border_radius=10" alt="Wage Zone Search" />
+  </a>
+</div>
 
 <br /><br /><br /><br /><br /><br />
 
