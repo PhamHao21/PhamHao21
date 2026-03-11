@@ -27,9 +27,6 @@
   <a href="https://www.facebook.com/lu.harry.9634" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
-  <a href="https://discordapp.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
   <a href="https://github.com/PhamHao21" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
@@ -40,7 +37,7 @@
 <h2 align="center">🔥 Languages - Frameworks - Tools 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,firebase,mongodb,postgres,git,docker,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=svelte,ts,js,html,css,tailwind,vite,nodejs,firebase,mongodb,postgres,git,docker,github&theme=dark" />
   </a>
 </p>
 <br />
