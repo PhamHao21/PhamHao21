@@ -90,7 +90,7 @@
   </a>
 
   <a align="right" href="https://github.com/PhamHao21/Wage-Zone-Search">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=Wage-Zone-Search&theme=tokyonight&border_radius=10" alt="Wage Zone Search" />
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=wage-zone-search&theme=tokyonight&border_radius=10" alt="wage zone search" />
   </a>
 </div>
 
