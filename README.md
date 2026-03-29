@@ -82,7 +82,7 @@
 
 <hr />
 
-<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<!-- <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br />
 <div width="100%" align="center">
   <a align="left" href="https://github.com/PhamHao21/online-dental-appointment-system">
@@ -92,7 +92,7 @@
   <a align="right" href="https://github.com/PhamHao21/Wage-Zone-Search">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamHao21&repo=wage-zone-search&theme=tokyonight&border_radius=10" alt="wage zone search" />
   </a>
-</div>
+</div> -->
 
 <br /><br /><br /><br /><br /><br />
 
