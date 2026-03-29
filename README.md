@@ -80,7 +80,7 @@
   </picture>
 </a>
 
-<hr />
+<!-- <hr /> -->
 
 <!-- <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br />
