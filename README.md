@@ -6,7 +6,7 @@
   </a>
 </h1>
 <p align="center">
-<strong>Visitors</strong><br>
+<h3><strong>Visitors</strong></h3><br>
 <img src="https://count.getloli.com/@PhamHao21?name=PhamHao21Profile&theme=booru-lewd&padding=7&offset=0&align=center&scale=1.7&pixelated=1&darkmode=auto" />
 </p>
 
