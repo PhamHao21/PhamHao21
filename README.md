@@ -5,6 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋+I'm+Pham+Gia+Hao;&center=true&font=Righteous&size=35&color=00FFFF&width=600">
   </a>
 </h1>
+<p align="center">
+Visitors<br>
+<img src="https://count.getloli.com/@PhamHao21?name=PhamHao21Profile&theme=booru-lewd&padding=7&offset=0&align=center&scale=1.7&pixelated=1&darkmode=auto" />
+</p>
 
 <br />
 <p align="center">
